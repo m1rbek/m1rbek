@@ -11,9 +11,6 @@
   <a href="https://wa.me/996702255741">
     <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
-  <a href="https://github.com/m1rbek">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="30"/>
-  </a>
 </div>
 
 <br/>
@@ -31,10 +28,6 @@ I focus on writing clean code that handles real-time data and background tasks r
 </table>
 
 ---
-
-## Glad to see you here!
-
-I build backends, automation bots, and APIs that run in production. I focus on writing clean code that handles real-time data and background tasks reliably.
 
 ## Skills
 
