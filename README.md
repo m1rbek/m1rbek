@@ -1,5 +1,7 @@
 ### Hi there, I'm <a href="https://github.com/m1rbek" target="_blank" title="Mirbek">Mirbek</a> 👋
 
+<img align="right" src="templates/coding.gif" alt="coding" width="320px" />
+
 <div id="badges">
   <a href="https://t.me/igkillu">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="30"/>
@@ -15,8 +17,6 @@
 <br/>
 
 ## Glad to see you here!
-
-<img align="right" alt="coding" src="templates/coding.gif" width="320px" />
 
 I build backends, automation bots, and APIs that run in production. I focus on writing clean code that handles real-time data and background tasks reliably.
 
