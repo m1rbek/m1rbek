@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://github.com/m1rbek" target="_blank" title="Mirbek">Mirbek</a> 👋 <img align="right" src="templates/coding.gif" alt="coding" width="320px" />
+### Hi there, I'm <a href="https://github.com/m1rbek" target="_blank" title="Mirbek">Mirbek</a> 👋 <img align="right" src="templates/coding.gif" alt="coding" width="280px" />
 
 <div id="badges">
   <a href="https://t.me/igkillu">
