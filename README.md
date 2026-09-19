@@ -8,7 +8,7 @@
   <a href="https://t.me/igkillu">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" height="30"/>
   </a>
-  <a href="https://wa.me/996702255741">
+  <a href="https://wa.me/996700330552">
     <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
   </a>
 </div>
