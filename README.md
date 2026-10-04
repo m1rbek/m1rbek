@@ -17,7 +17,7 @@
 
 **Glad to see you here!**  
 I build backends, automation bots, and APIs that run in production.  
-I focus on writing clean code that handles real-time data and background tasks reliably.
+I focus on writing clean code that handles real-time data and background tasks reliably!
 
 </td>
 <td align="right" width="320">
